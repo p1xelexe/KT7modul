@@ -1,0 +1,3 @@
+2024-05-04 10:49:51,085 - INFO - Finding element by locator: ('css selector', 'div.container:nth-child(4) div.row div.col-sm-12 div.row:nth-child(4) div.product-layout.col-lg-3.col-md-3.col-sm-6.col-xs-12:nth-child(4) div.product-thumb.transition div.caption h4:nth-child(1) > a:nth-child(1)')
+2024-05-04 10:49:52,240 - INFO - Finding elements by locator: ('css selector', 'div.container:nth-child(4) div.row div.col-sm-12 div.row div.col-sm-8 ul.thumbnails li > a.thumbnail')
+2024-05-04 10:49:52,579 - INFO - Finding element by locator: ('css selector', 'body:nth-child(2) div.mfp-wrap.mfp-gallery.mfp-close-btn-in.mfp-auto-cursor.mfp-ready:nth-child(2) div.mfp-container.mfp-s-ready.mfp-image-holder > button.mfp-arrow.mfp-arrow-right.mfp-prevent-close:nth-child(4)')

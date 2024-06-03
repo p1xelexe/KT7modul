@@ -1,0 +1,1 @@
+2024-05-04 10:50:25,639 - INFO - Finding element by locator: ('css selector', 'div.container:nth-child(4) div.row div.col-sm-12 div.row:nth-child(4) div.product-layout.col-lg-3.col-md-3.col-sm-6.col-xs-12:nth-child(2) div.product-thumb.transition div.button-group button:nth-child(2) > i.fa.fa-heart')
